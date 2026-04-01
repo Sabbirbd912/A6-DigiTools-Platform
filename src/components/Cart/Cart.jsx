@@ -2,7 +2,7 @@ import React from 'react';
 import CartItem from '../CartItem/CartItem';
 import { toast } from 'react-toastify';
 
-const Cart = ({ cart, setCart }) => {
+
 
     const totalPrice = cart.reduce((total, product) => total + product.price, 0);
 
