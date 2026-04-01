@@ -51,7 +51,9 @@ const Card = ({ tool, cart, setCart }) => {
 
             </ul>
 
-
+            <button onClick={addToCart} className="w-full bg-[#8b31ff] hover:bg-[#7a28e0] text-white font-bold py-4 rounded-full transition-colors duration-200 hover:cursor-pointer">
+                Buy Now
+            </button>
         </div>
     );
 };
