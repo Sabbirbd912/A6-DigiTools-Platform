@@ -26,5 +26,11 @@ Technology: React.js
             Tailwind CSS, DaisyUI
             JavaScript      
             React-Toastify
-            JSON 
-3 Features:
+            JSON data
+Features: 
+            Fetch data from json file
+            create dynamic cards
+            Add to Cart
+            count cards
+            remove option from the cart
+            Toggle all cards and add cart
