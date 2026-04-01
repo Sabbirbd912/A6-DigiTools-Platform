@@ -9,7 +9,7 @@ const Workflow = () => {
                 </h2>
                 <p className="text-purple-100 text-sm md:text-sm mb-10 leading-relaxed">
                     Join thousands of professionals who are already using Digitools to work
-                    smarter.
+                    Smarter.
                     <br className="hidden md:block" />
                     Start your free trial today.
                 </p>
