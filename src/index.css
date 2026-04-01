@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+};
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+body, *{
+  box-sizing: border-box;
+}
+
+body, .manrope{
+  font-family: "Manrope", sans-serif;
+}
+
+.button-active{
+  background: linear-gradient(135deg, #4F39F6, #9514FA);
+  color: white;
+  box-shadow: 0 10px 25px rgba(79, 57, 246, 0.35);
+}
