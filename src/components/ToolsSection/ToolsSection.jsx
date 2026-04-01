@@ -6,7 +6,7 @@ const ToolsSection = ({cart, setCart}) => {
 
     const toolsPromise = fetch('/data.json').then(res => res.json());
 
-    const [toggle, setToggle] = useState(false);
+
 
     return (
         <section className='w-[80%] mx-auto my-30'>
